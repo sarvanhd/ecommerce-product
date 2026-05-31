@@ -157,7 +157,7 @@ services:
         USER_DB_USER: root
         USER_DB_PASS: test@123
         MCP_SERVER_URL: http://mcp:8085
-        OPENAI_API_KEY: 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
+        OPENAI_API_KEY: OPENAI_API_KEY
 
   frontend:
       build:
