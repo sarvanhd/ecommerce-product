@@ -1,0 +1,13 @@
+type Query {
+    getUsers: [User]
+    getUser(userId: ID): User
+}
+type User {
+    userId: ID
+    lastName: String
+    firstName: String
+    address: String
+    email: String!
+    dob: String
+    updated: String
+}
