@@ -7,4 +7,7 @@ usermanagemenrt/
 **/.venv/
 **/.idea/
 **/__pycache__/
+**/.mvn/
+**/gradle/
+
 .DS_Store
