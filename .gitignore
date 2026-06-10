@@ -1,6 +1,7 @@
 lambda/
 login/
 usermanagemenrt/
+Portfolio/
 **/target/
 **/dist/
 **/node_modules/
